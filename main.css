@@ -106,12 +106,6 @@ header {
   padding: 10px;
 }
 
-.learn {
-}
-
-.g {
-}
-
 #portfolio {
   background-color: white;
   text-align: center;
@@ -199,12 +193,6 @@ header {
   width: 220px;
   height: 228px;
 }
-
-/* .hum img:hover {
-  background-color: rgba(22, 160, 134, 0.8);
-  width: 180px;
-  height: 48px;
-} */
 
 .hum h5 {
   color: #444444;
